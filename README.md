@@ -32,3 +32,25 @@ Link: https://tinyurl.com/freeRTOSlink
 OS: Windows 10
 
 Software used to setup the project: Visual studio Community : https://www.visualstudio.com/downloads/
+
+Steps:
+
+1)Start VS 
+
+2)Choose “File” and then “Open Project” 
+
+3)Navigate to the path of the project 
+
+4)Go to the folder “FreeRTOS”
+
+5)Go to the folder “Demo” 
+
+6)Go to the folder “WIN32-MSVC”
+
+7)Choose the file “WIN32.vcxproj” 
+
+8)Click “Open” 
+
+9)Edit the main.c file to build each assignment
+
+10)To build your project select “Build” from the menu and then select “Build Solution”
