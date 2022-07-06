@@ -22,3 +22,7 @@ Create a python script "simsorun.py" like:
 Then run the application using the following command:
     
     python.exe simsorun.py
+
+## FreeRTOS project installation:
+
+Link: https://tinyurl.com/freeRTOSlink
