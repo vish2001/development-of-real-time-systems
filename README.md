@@ -25,4 +25,10 @@ Then run the application using the following command:
 
 ## FreeRTOS project installation:
 
+Download the following zip file to install the project:
+
 Link: https://tinyurl.com/freeRTOSlink
+
+OS: Windows 10
+
+Software used to setup the project: Visual studio Community : https://www.visualstudio.com/downloads/
