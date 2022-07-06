@@ -19,3 +19,6 @@ Create a python script "simsorun.py" like:
     from simsogui import run_gui
     run_gui()
     
+Then run the application using the following command:
+    
+    python.exe simsorun.py
