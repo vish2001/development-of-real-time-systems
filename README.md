@@ -33,7 +33,7 @@ OS: Windows 10
 
 Software used to setup the project: Visual studio Community : https://www.visualstudio.com/downloads/
 
-Steps:
+**Steps:**
 
 1)Start VS 
 
