@@ -2,4 +2,4 @@
 
 Output: Serial Monitor
 
-![output](http://url/to/img.png)
+![output](https://github.com/vish2001/development-of-real-time-systems/blob/main/mini-project/Output.png)
