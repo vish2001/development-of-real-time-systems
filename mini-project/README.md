@@ -2,4 +2,4 @@
 
 Output: Serial Monitor
 
-[[output.png]]
+![output](http://url/to/img.png)
